@@ -13,6 +13,11 @@ class AppStyles {
     fontWeight: FontWeight.w700,
     fontSize: 26,
   );
+  static const TextStyle h3 = TextStyle(
+    fontFamily: AppFonts.vazirmatn,
+    fontWeight: FontWeight.w400,
+    fontSize: 18,
+  );
   static const TextStyle h4 = TextStyle(
     fontFamily: AppFonts.vazirmatn,
     fontWeight: FontWeight.w400,

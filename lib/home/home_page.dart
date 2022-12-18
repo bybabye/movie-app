@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:movie_app/components/custom_circle_icon.dart';
+
 import 'package:movie_app/components/item_drawer.dart';
 import 'package:movie_app/components/stack_swiper_view.dart';
 import 'package:movie_app/home/list_film_page.dart';
 import 'package:movie_app/theme/app_colors.dart';
-import 'package:movie_app/theme/app_style.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
